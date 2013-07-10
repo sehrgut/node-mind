@@ -20,5 +20,11 @@
   ],
   "author": "Keith Beckman <kbeckman@becknet.com>",
   "license": "BSD",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "gitHead": "8f1b438a35cff788a68440fa481466f9d0c9fac1",
+  "dependencies": {},
+  "devDependencies": {
+    "nodeunit": "~0.8.1",
+    "temp": "~0.5.1"
+  }
 }
