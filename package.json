@@ -1,0 +1,24 @@
+{
+  "name": "mind",
+  "version": "0.0.1",
+  "description": "mind was designed to be a robust alternative to anti-db, providing JSON persistence in the form of autosaving objects.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sehrgut/node-mind"
+  },
+  "keywords": [
+    "persistence",
+    "database",
+    "nosql"
+  ],
+  "author": "Keith Beckman <kbeckman@becknet.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
