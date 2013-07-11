@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "./node_modules/.bin/nodeunit test"
+    "test": "nodeunit test"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   "gitHead": "8f1b438a35cff788a68440fa481466f9d0c9fac1",
   "dependencies": {},
   "devDependencies": {
-    "nodeunit": "~0.8.1",
+    "nodeunit": "latest",
     "temp": "~0.5.1"
   }
 }
