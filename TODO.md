@@ -11,3 +11,4 @@
 * startAutosave/stopAutosave events
 * allow startAutosave(new_interval_ms) to override opts.autosave (perm or just for that invocation of start?)
 * maybe save-on-exit should be mandatory? Too much config and might as well just use mongo.
+* openSync method
